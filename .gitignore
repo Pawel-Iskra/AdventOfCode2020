@@ -20,6 +20,7 @@ target/
 *.ipr
 *.mvn
 *.mvnw
+/_stats
 mvnw
 mvnw.cmd
 
